@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.native-instruments.com/typo3temp/pics/img-ce-guitar-rig-7-player-product-page-02-gui-020180659b19243beebaa86f9e976cd1-m@2x.jpg" alt="Guitar Rig screenshot"/>
+  <img src="https://static.filehorse.com/screenshots-mac//audio-software/guitar-rig-screenshot-01.png" alt="Guitar Rig screenshot"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@ Studio-quality processing through rack effects offers professional processors ap
 ---
 
 <p align="center">
-  <img src="https://www.native-instruments.com/typo3temp/pics/img-ce-guitar-rig-7-player-product-page-02-gui-020180659b19243beebaa86f9e976cd1-m@2x.jpg" alt="Guitar Rig screenshot"/>
+  <img src="https://i.ytimg.com/vi/KTyc_xtzq98/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDJoxSY4XE4RPFmBZe5KMACM_mKQA" alt="Guitar Rig screenshot"/>
 </p>
 
 ---
